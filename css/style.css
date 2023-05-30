@@ -11,9 +11,10 @@
 
 
 /* 
-    COLOR PALETTE
+    VARIABLES
 */
     :root {
+        /* Color Palette */
         
         --white:#FFFFFF ;
         --black: #0A0A0A ;
@@ -52,23 +53,41 @@
 
 
 /* 
-    MEDIA QUERYS
+   !RESPONSIVE DESIGN
 */
 
-/* Smartphone Small */
+/* Min width 576px */
 
 @media screen and (min-width: 576px) {
     
 }
 
-/* Tablet */
+/* Min width 768px */
 
 @media screen and (min-width: 768px) {
     
 }
 
-/* Dekstop */
+/* Min width 992px */
 
 @media screen and (min-width: 992px) {
+    
+}
+
+/* Max width 992px */
+
+@media screen and (max-width: 992px) {
+    
+}
+
+/* Max width 768px */
+
+@media screen and (max-width: 768px) {
+    
+}
+
+/* Max width 576px */
+
+@media screen and (max-width: 576px) {
     
 }
