@@ -27,7 +27,7 @@
 .col {
     flex-grow: 1;
     flex-basis: 0;
-    max-width: ;
+    max-width: 100%;
 }
 
 .col_1 {
