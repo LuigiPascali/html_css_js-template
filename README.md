@@ -1,6 +1,6 @@
 # htmlcss-template
 
-FONT:
+FONTS:
 <!-- Montserrat: Pulito e leggibile:
 
 HTML: <link rel="preconnect" href="https://fonts.googleapis.com">
