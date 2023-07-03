@@ -1,12 +1,11 @@
 // Inizializzazione Vue Js:
-const { createApp } = Vue;
-
-createApp ({
+const app = Vue.createApp({
     data() {
-        return {
-
-        }
+      return {
+        
+      };
     }
-});
+  });
 
-mount('#app');
+  // Mostra l'applicazione nella pagina HTML
+  app.mount('#app');
